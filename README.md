@@ -10,8 +10,6 @@ I'm an avid programmer and I keep learning JavaScript, Python, Front-end and Ful
 
 I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.cantrill.io and Udemy.</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
-
 ### 💼 Where I currently work:
 - [Technical Architect, TATA Consultancy Services Ltd](https://tcs.com/) 💼 
 
