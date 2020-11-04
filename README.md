@@ -20,43 +20,42 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 
 ### My certifications:
 
-- ServiceNow Certified System Administrator
-- ServiceNow Certified Application Developer
-- ServiceNow Certified Implementation Specialist
--- ITSM
--- Discovery
--- Event Management
--- Application Portfolio Management
--- Software Asset Management
--- Human Resources
--- Security Incident Response
-- ServiceNow Certified Application Specialist - Performance Analytics
+- [x] ServiceNow Certified System Administrator
+- [x] ServiceNow Certified Application Developer
 
-- ServiceNow Suite Certification
--- ITSM Professional
--- HR Professional
--- HR Enterprise
+- [x] ServiceNow Certified Implementation Specialist - ITSM
+- [x] ServiceNow Certified Implementation Specialist - Discovery
+- [x] ServiceNow Certified Implementation Specialist - Event Management
+- [x] ServiceNow Certified Implementation Specialist - Application Portfolio Management
+- [x] ServiceNow Certified Implementation Specialist - Software Asset Management
+- [x] ServiceNow Certified Implementation Specialist - Human Resources
+- [x] ServiceNow Certified Implementation Specialist - Security Incident Response
 
-- BMC Certified Administrator
--- BMC Remedy ITSM 7.6.04
--- BMC Atrium CMDB 7.6.04
--- BMC Remedy AR System 7.6.04
+- [x] ServiceNow Certified Application Specialist - Application Portfolio Management
 
-- BMC Certified Developer - BMC Remedy AR System 7.6.04
+- [x] ServiceNow Suite Certification - ITSM Professional
+- [x] ServiceNow Suite Certification - HR Professional
+- [x] ServiceNow Suite Certification - HR Enterprise
 
-- Amazon Web Services
--- AWS Certified Cloud Practitioner
+- [x] BMC Certified Developer - BMC Remedy AR System 7.6.04
+- [x] BMC Certified Administrator - BMC Remedy ITSM 7.6.04
+- [x] BMC Certified Administrator - BMC Atrium CMDB 7.6.04
+- [x] BMC Certified Administrator - BMC Remedy AR System 7.6.04
+- [x] BMC Certified Administrator - BMC Atrium Orchestrator 7.6.04
 
-- Oracle Cloud Infrastructure
--- Oracle Cloud Infrastructure Foundations 2020 Associate
--- Oracle Cloud Infrastructure 2019 Architect Associate
--- Oracle Cloud Infrastructure 2019 Architect Professional
+- [x] Amazon Web Services - Certified Cloud Practitioner
+- [ ] Amazon Web Services - Certified Solution Architect Associate 
+- [ ] Amazon Web Services - Certified Solution Architect Professional
 
-- Automation Anywhere Certified Advanced RPA Professional (V11)
+- [x] Oracle Cloud Infrastructure Foundations 2020 Associate
+- [x] Oracle Cloud Infrastructure 2019 Architect Associate
+- [x] Oracle Cloud Infrastructure 2019 Architect Professional
 
-- ITIL Foundation Certificate in IT Service Management
+- [x] Automation Anywhere Certified Advanced RPA Professional (V11)
 
-- IT Service Management Foundation based on ISO/IEC 20000
+- [x] ITIL Foundation Certificate in IT Service Management
+
+- [x] IT Service Management Foundation based on ISO/IEC 20000
 
 ### :heavy_dollar_sign: Donations:
 
