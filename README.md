@@ -13,13 +13,15 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 ### 💼 Where I currently work:
 - [Technical Architect, TATA Consultancy Services Ltd](https://tcs.com/)
 
-### 📫 Where to find me 🔗
+### 📫 Where to find me: 🔗
 - [LinkedIn](https://linkedin.com/in/shivaramumapathy)
 - [Website](https://shivaramumapathy.com)
 
+### Donations:
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PHMPE6PV5TZE4&currency_code=USD)
-
+| Paypal | QR Code |
+| ------ | ------- |
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PHMPE6PV5TZE4&currency_code=USD) |  <center>[![](https://github.com/shivaramumapathy/shivaramumapathy/blob/main/QR%20Code.png)</center> |
 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=shivaramumapathy&show_icons=true&theme=radical)
