@@ -18,7 +18,7 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [Website](https://shivaramumapathy.com)
 
 <p align="center">
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PHMPE6PV5TZE4&currency_code=USD">alt="Please donate to my projects"></a>
+	[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PHMPE6PV5TZE4)
 </p>
 
 
