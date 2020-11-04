@@ -1,3 +1,7 @@
+<p align="center">
+	<a href="https://www.linkedin.com/in/shivaramumapathy"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
