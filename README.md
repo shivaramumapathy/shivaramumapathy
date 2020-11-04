@@ -4,7 +4,7 @@
 
 <h2 align="center">Hello there! I'm Shivaram Umapathy. 👋 </h2>
 <p align="center">I'm a Technical Architect, Developer and an Adminstrator certified on ServiceNow, BMC Remedy and other technologies.
-I'm currently working for TATA Consultancy Services (TCS) and I'm also pursuing my Masters in Computer Science (OMSCS) from Georgia Institute of Technology.
+I'm currently working for an IT Consulting and Services company and I'm also pursuing my Masters in Computer Science (OMSCS) from Georgia Institute of Technology.
 
 I'm an avid programmer and I keep learning JavaScript, Python, Front-end and Full Stack development. I spend time on building solutions on ServiceNow and plan to start my own technical blog/vlog.
 
