@@ -18,7 +18,7 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [Website](https://shivaramumapathy.com)
 - [Acclaim](https://www.youracclaim.com/users/shivaram-umapathy)
 
-### My certifications:
+### Achieved certifications:
 
 - [x] ServiceNow Certified System Administrator
 - [x] ServiceNow Certified Application Developer
@@ -44,8 +44,6 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [x] BMC Certified Administrator - BMC Atrium Orchestrator 7.6.04
 
 - [x] Amazon Web Services - Certified Cloud Practitioner
-- [ ] Amazon Web Services - Certified Solution Architect Associate 
-- [ ] Amazon Web Services - Certified Solution Architect Professional
 
 - [x] Oracle Cloud Infrastructure Foundations 2020 Associate
 - [x] Oracle Cloud Infrastructure 2019 Architect Associate
@@ -56,6 +54,13 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [x] ITIL Foundation Certificate in IT Service Management
 
 - [x] IT Service Management Foundation based on ISO/IEC 20000
+
+### Ongoing certification preparations:
+
+- [ ] Amazon Web Services - Certified Solution Architect Associate 
+- [ ] Amazon Web Services - Certified Solution Architect Professional
+- [ ] Docker Certified Associate
+- [ ] Certified Kubernetes Application Developer (CKAD)
 
 ### :heavy_dollar_sign: Donations:
 
