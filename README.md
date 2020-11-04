@@ -19,8 +19,7 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 
 ### :heavy_dollar_sign: Donations:
 
-:pray: 
-- I greatly appreciate any donations and thank you so much in advance!
+![:pray:] I greatly appreciate any donations and thank you so much in advance!
 If you wish to donate to my projects or learning, please use Paypal.
 
 | Paypal | QR Code |
