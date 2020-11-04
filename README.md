@@ -17,7 +17,7 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [LinkedIn](https://linkedin.com/in/shivaramumapathy)
 - [Website](https://shivaramumapathy.com)
 
-### Donations:
+### :heavy_dollar_sign: Donations:
 
 | Paypal | QR Code |
 | ------ | ------- |
