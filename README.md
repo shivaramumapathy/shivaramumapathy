@@ -19,6 +19,9 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 
 ### :heavy_dollar_sign: Donations:
 
+I greatly appreciate any donations and thank you so much in advance!
+If you wish to donate to my projects or learning, please use Paypal.
+
 | Paypal | QR Code |
 | ------ | ------- |
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PHMPE6PV5TZE4&currency_code=USD) |  <center>[![](https://github.com/shivaramumapathy/shivaramumapathy/blob/main/QR%20Code.png)</center> |
