@@ -17,13 +17,9 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [LinkedIn](https://linkedin.com/in/shivaramumapathy)
 - [Website](https://shivaramumapathy.com)
 
-<span align="center">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="PHMPE6PV5TZE4" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</span>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PHMPE6PV5TZE4)
+
 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=shivaramumapathy&show_icons=true&theme=radical)
