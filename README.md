@@ -16,6 +16,10 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 ### 📫 Where to find me: 🔗
 - [LinkedIn](https://linkedin.com/in/shivaramumapathy)
 - [Website](https://shivaramumapathy.com)
+- [Acclaim] (https://www.youracclaim.com/users/shivaram-umapathy)
+
+### My certifications:
+|![](https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png)|![](https://images.youracclaim.com/size/340x340/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png)|![](https://images.youracclaim.com/size/340x340/images/a0c90a95-7b12-4b51-a8a5-59887be2c399/08_Associate_OCI_Architect_2019.png)|![](https://images.youracclaim.com/size/340x340/images/1b9e2535-31dc-405d-8c05-ee2a53d50477/11_OCI_Architect_Professional_2019.png)|
 
 ### :heavy_dollar_sign: Donations:
 
