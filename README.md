@@ -11,12 +11,13 @@ I'm an avid programmer and I keep learning JavaScript, Python, Front-end and Ful
 I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.cantrill.io and Udemy.</p>
 
 ### 💼 Where I currently work:
-- [Technical Architect, TATA Consultancy Services Ltd](https://tcs.com/) 💼 
+- [Technical Architect, TATA Consultancy Services Ltd](https://tcs.com/)
 
-### 📫 Where to find me
-- [LinkedIn](https://linkedin.com/in/shivaramumapathy) 👨 💼
-- [Website](https://shivaramumapathy.com) 😏 🔗
+### 📫 Where to find me 🔗
+- [LinkedIn](https://linkedin.com/in/shivaramumapathy)
+- [Website](https://shivaramumapathy.com)
 
+<div>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
 <input type="hidden" name="business" value="PHMPE6PV5TZE4" />
@@ -24,6 +25,7 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</div>
 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=shivaramumapathy&show_icons=true&theme=radical)
