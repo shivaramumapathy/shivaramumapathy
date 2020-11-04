@@ -19,10 +19,10 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [Acclaim](https://www.youracclaim.com/users/shivaram-umapathy)
 
 ### Achieved certifications:
-
-- [x] ServiceNow Certified System Administrator
+| ServiceNow | BMC | AWS | Oracle Cloud | DevOps |
+| ---------- | --- | --- | ------------ | ------ |
+|- [x] ServiceNow Certified System Administrator
 - [x] ServiceNow Certified Application Developer
-
 - [x] ServiceNow Certified Implementation Specialist - ITSM
 - [x] ServiceNow Certified Implementation Specialist - Discovery
 - [x] ServiceNow Certified Implementation Specialist - Event Management
@@ -30,30 +30,30 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [x] ServiceNow Certified Implementation Specialist - Software Asset Management
 - [x] ServiceNow Certified Implementation Specialist - Human Resources
 - [x] ServiceNow Certified Implementation Specialist - Security Incident Response
-
 - [x] ServiceNow Certified Application Specialist - Application Portfolio Management
-
 - [x] ServiceNow Suite Certification - ITSM Professional
 - [x] ServiceNow Suite Certification - HR Professional
-- [x] ServiceNow Suite Certification - HR Enterprise
+- [x] ServiceNow Suite Certification - HR Enterprise |
 
 - [x] BMC Certified Developer - BMC Remedy AR System 7.6.04
 - [x] BMC Certified Administrator - BMC Remedy ITSM 7.6.04
 - [x] BMC Certified Administrator - BMC Atrium CMDB 7.6.04
 - [x] BMC Certified Administrator - BMC Remedy AR System 7.6.04
-- [x] BMC Certified Administrator - BMC Atrium Orchestrator 7.6.04
+- [x] BMC Certified Administrator - BMC Atrium Orchestrator 7.6.04 |
 
-- [x] Amazon Web Services - Certified Cloud Practitioner
+- [x] Amazon Web Services - Certified Cloud Practitioner |
 
 - [x] Oracle Cloud Infrastructure Foundations 2020 Associate
 - [x] Oracle Cloud Infrastructure 2019 Architect Associate
-- [x] Oracle Cloud Infrastructure 2019 Architect Professional
+- [x] Oracle Cloud Infrastructure 2019 Architect Professional | |
 
-- [x] Automation Anywhere Certified Advanced RPA Professional (V11)
+| ServiceNow |
+| ---------- |
+| - [x] Automation Anywhere Certified Advanced RPA Professional (V11)
 
 - [x] ITIL Foundation Certificate in IT Service Management
 
-- [x] IT Service Management Foundation based on ISO/IEC 20000
+- [x] IT Service Management Foundation based on ISO/IEC 20000 |
 
 ### Ongoing certification preparations:
 
