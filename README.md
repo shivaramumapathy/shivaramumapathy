@@ -21,38 +21,11 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 ### Achieved certifications:
 | ServiceNow | BMC | AWS | Oracle Cloud | DevOps |
 | ---------- | --- | --- | ------------ | ------ |
-|<ul><li>ServiceNow Certified System Administrator</li>
-<li>ServiceNow Certified Application Developer</li>
-<li>ServiceNow Certified Implementation Specialist - ITSM</li>
-<li>ServiceNow Certified Implementation Specialist - Discovery</li>
-<li>ServiceNow Certified Implementation Specialist - Event Management</li>
-<li>ServiceNow Certified Implementation Specialist - Application Portfolio Management</li>
-<li>ServiceNow Certified Implementation Specialist - Software Asset Management</li>
-<li>ServiceNow Certified Implementation Specialist - Human Resources</li>
-<li>ServiceNow Certified Implementation Specialist - Security Incident Response</li>
-<li>ServiceNow Certified Application Specialist - Application Portfolio Management</li>
-<li>ServiceNow Suite Certification - ITSM Professional</li>
-<li>ServiceNow Suite Certification - HR Professional</li>
-<li>ServiceNow Suite Certification - HR Enterprise</li></ul>|
-
-<ul><li>BMC Certified Developer - BMC Remedy AR System 7.6.04</li>
-<li>BMC Certified Administrator - BMC Remedy ITSM 7.6.04</li>
-<li>BMC Certified Administrator - BMC Atrium CMDB 7.6.04</li>
-<li>BMC Certified Administrator - BMC Remedy AR System 7.6.04</li>
-<li>BMC Certified Administrator - BMC Atrium Orchestrator 7.6.04</li></ul>|
-
-<ul><li>Amazon Web Services - Certified Cloud Practitioner</li></ul>|
-
-<ul><li>Oracle Cloud Infrastructure Foundations 2020 Associate</li>
-<li>Oracle Cloud Infrastructure 2019 Architect Associate</li>
-<li>Oracle Cloud Infrastructure 2019 Architect Professional</li></ul>|
-| 
+|<ul><li>ServiceNow Certified System Administrator</li><li>ServiceNow Certified Application Developer</li><li>ServiceNow Certified Implementation Specialist - ITSM</li><li>ServiceNow Certified Implementation Specialist - Discovery</li><li>ServiceNow Certified Implementation Specialist - Event Management</li><li>ServiceNow Certified Implementation Specialist - Application Portfolio Management</li><li>ServiceNow Certified Implementation Specialist - Software Asset Management</li><li>ServiceNow Certified Implementation Specialist - Human Resources</li><li>ServiceNow Certified Implementation Specialist - Security Incident Response</li><li>ServiceNow Certified Application Specialist - Application Portfolio Management</li><li>ServiceNow Suite Certification - ITSM Professional</li><li>ServiceNow Suite Certification - HR Professional</li><li>ServiceNow Suite Certification - HR Enterprise</li></ul>|<ul><li>BMC Certified Developer - BMC Remedy AR System 7.6.04</li><li>BMC Certified Administrator - BMC Remedy ITSM 7.6.04</li><li>BMC Certified Administrator - BMC Atrium CMDB 7.6.04</li><li>BMC Certified Administrator - BMC Remedy AR System 7.6.04</li><li>BMC Certified Administrator - BMC Atrium Orchestrator 7.6.04</li></ul>|<ul><li>Amazon Web Services - Certified Cloud Practitioner</li></ul>|<ul><li>Oracle Cloud Infrastructure Foundations 2020 Associate</li><li>Oracle Cloud Infrastructure 2019 Architect Associate</li><li>Oracle Cloud Infrastructure 2019 Architect Professional</li></ul>|| 
 
 | Other Certifcations |
 | ---------- |
-| <ul><li>Automation Anywhere Certified Advanced RPA Professional (V11)</li>
-<li>ITIL Foundation Certificate in IT Service Management</li>
-<li>IT Service Management Foundation based on ISO/IEC 20000</li></ul>|
+| <ul><li>Automation Anywhere Certified Advanced RPA Professional (V11)</li><li>ITIL Foundation Certificate in IT Service Management</li><li>IT Service Management Foundation based on ISO/IEC 20000</li></ul>|
 
 ### Ongoing certification preparations:
 
