@@ -33,6 +33,8 @@ I also invest a lot of my time on learning from Linux Academy, KodeKloud, learn.
 - [ ] Amazon Web Services - Certified Solution Architect Professional
 - [ ] Docker Certified Associate
 - [ ] Certified Kubernetes Application Developer (CKAD)
+- [ ] TOGAF 9 Part 1
+- [ ] TOGAF 9 Part 2
 
 ### :heavy_dollar_sign: Donations:
 
